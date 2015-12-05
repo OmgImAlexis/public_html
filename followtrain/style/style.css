@@ -1,0 +1,25 @@
+body{
+    background-color: #323952;
+    text-align: center;
+}
+#content{
+    width: 1000px;
+    background-color: #000000;
+    color: #ffffff;
+    margin: 20px auto;
+    padding: 20px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#footer, #footer a, #footer a:hover {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 85%;
+    padding: 3px 0 0 0;
+    clear: both;
+}
+a, a:hover {
+    color:#ffffff;
+    text-decoration: none;
+}
