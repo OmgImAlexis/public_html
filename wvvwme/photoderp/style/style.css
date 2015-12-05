@@ -1,0 +1,21 @@
+body{
+    background-color: #217ab3;
+    text-align: center;
+}
+#content{
+    width: 1000px;
+    background-color: white;
+    color: black;
+    margin: 20px auto;
+    padding: 20px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#footer, #footer a, #footer a:hover {
+    text-decoration: none;
+    color: black;
+    font-size: 85%;
+    padding: 3px 0 0 0;
+    clear: both;
+}
